@@ -14,7 +14,8 @@ h1
 	text-align:center;
 	color:red;
      text-shadow: 2px 2px 10px yellow;
-     background-color: grey;
+     
+	background-color: rgb(65, 160, 255);
   
 }
 h1:hover
